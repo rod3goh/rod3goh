@@ -12,6 +12,6 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]([https://open.spotify.com/intl-pt/track/60a0Rd6pjrkxjPbaKzXjfq?si=74b0d3373472405c](https://open.spotify.com/playlist/7uEn6mbfJBqOMx3NqZ5sA1?si=KIKQkqB7Q6elP5ZUYUVpDQ&pi=u-_iyFUvNuRbyK)https://open.spotify.com/playlist/7uEn6mbfJBqOMx3NqZ5sA1?si=KIKQkqB7Q6elP5ZUYUVpDQ&pi=u-_iyFUvNuRbyK)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/track/60a0Rd6pjrkxjPbaKzXjfq?si=74b0d3373472405c](https://open.spotify.com/playlist/7uEn6mbfJBqOMx3NqZ5sA1?si=KIKQkqB7Q6elP5ZUYUVpDQ&pi=u-_iyFUvNuRbyK)https://open.spotify.com/playlist/7uEn6mbfJBqOMx3NqZ5sA1?si=KIKQkqB7Q6elP5ZUYUVpDQ&pi=u-_iyFUvNuRbyK)
 <br/>
 ---
