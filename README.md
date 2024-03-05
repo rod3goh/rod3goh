@@ -5,6 +5,7 @@
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="Python" width="26px" src="https://i.ibb.co/7CL6KGY/pitao.png" /></a>
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="C#" width="26px" src="https://i.ibb.co/h2PwxrB/c.png" /></a>
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="windows" width="26px" src="https://i.ibb.co/n69qvdr/janelas.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="grafana" width="26px" src="https://i.ibb.co/0qtFHZ9/grafana.png" /></a>
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="mikrotik" width="150px" src="https://mikrotik.com/img/mtv2/newlogo.svg" /></a>
 <br />
