@@ -5,11 +5,11 @@
 
 ## 🔧 Habilidades:
 Linguagens de Programação: C#, Python, HTML, CSS
-Tecnologias de Rede: xxxxxxxxxxxxxxx
+* Tecnologias de Rede: xxxxxxxxxxxxxxx
 
 ## 💼 Experiência Profissional:
 Analista de Rede | LIFECONNETIONS
-Responsável por xxxxxxxxxxxxx
+* Responsável por xxxxxxxxxxxxx
 
 ### Languages, Tools and system:
 
