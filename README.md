@@ -5,11 +5,16 @@
 
 ## 🔧 Habilidades:
 Linguagens de Programação: C#, Python, HTML, CSS
-* Tecnologias de Rede: xxxxxxxxxxxxxxx
+* Tecnologias de Rede: Mikrotik, VPN, Firewall, Hotspots, QoS, Controle de Banda, e outras
 
 ## 💼 Experiência Profissional:
 Analista de Rede | LIFECONNETIONS
-* Responsável por xxxxxxxxxxxxx
+* Responsável por monitoramento de rede com PRTG, Grafana, The dude e zabbix.
+* Gestão de Riscos
+* Analista de Suporte N2
+* Analista de Rede
+  
+  
 
 ### Applications
 
