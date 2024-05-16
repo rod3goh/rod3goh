@@ -1,6 +1,6 @@
 # Rodrigo Pontes
 
-### Analista de Rede | Desenvolvedor C# | Pythonista | Front-end Developer
+### Analista de Rede | Desenvolvedor C# | Pythonista 
 👋 Olá, sou **Rodrigo**, um analista de rede apaixonado por  tecnologia. 
 Com uma sólida experiência em redes de telecomunicações, estou constantemente buscando aprimorar meu conhecimento e contribuir para projetos inovadores.
 
